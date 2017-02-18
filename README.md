@@ -2,7 +2,7 @@
 An implementation of UIAlertContoller which can display multiple alerts one by one
 
 ## Usage
-> Add all the files ( including README.md if you want:) ) to your project, and import `DLAlertController` to the files where you want to call out an alert view.
+> Add the DLAlert directory to your project, and import `DLAlertController` to the files where you want to call out an alert view.
 
 DLAlert has a similar usage of UIAlertController.
 
